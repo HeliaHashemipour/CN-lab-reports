@@ -1,2 +1,4 @@
 ## CN lab
-Computer Networks LAB course - Spring 2022
+> Instructor: [Dr. B. Sadeghian](https://scholar.google.com/citations?user=U_Ex4IIAAAAJ&hl=en)
+
+> Semester: Spring 2022
